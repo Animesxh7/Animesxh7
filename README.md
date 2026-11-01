@@ -26,37 +26,25 @@ I am currently looking for internships in data analytics and data science.
 
 ---
 
-## Technical Skills
-
-*Hover over a logo to see its name.*
-
-**Languages and Databases**
+## Tech Stack
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python" alt="Python"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python" alt="Python"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL" alt="MySQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" title="Pandas" alt="Pandas"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" title="NumPy" alt="NumPy"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" title="Scikit-learn" alt="Scikit-learn"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" title="Matplotlib" alt="Matplotlib"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="45" height="45" title="Plotly" alt="Plotly"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/power-bi-2021.png" width="45" height="45" title="Power BI" alt="Power BI"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="45" height="45" title="Microsoft Excel" alt="Microsoft Excel"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45" height="45" title="Streamlit" alt="Streamlit"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45" title="PyCharm" alt="PyCharm"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git" alt="Git"/>
 </p>
 
-**Data Analysis and Machine Learning**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" title="Pandas" alt="Pandas"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" title="NumPy" alt="NumPy"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" title="Scikit-learn" alt="Scikit-learn"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" title="Matplotlib" alt="Matplotlib"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="50" height="50" title="Plotly" alt="Plotly"/>
-</p>
-
-**Business Intelligence and Tools**
-
-<p>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50" height="50" title="Power BI" alt="Power BI"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50" height="50" title="Microsoft Excel" alt="Microsoft Excel"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" height="50" title="Streamlit" alt="Streamlit"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" title="PyCharm" alt="PyCharm"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git" alt="Git"/>
-</p>
+**Currently studying:** Deep Learning, Natural Language Processing and Generative AI.
 
 **Currently studying:** Deep Learning, Natural Language Processing and Generative AI.
 
