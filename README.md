@@ -20,7 +20,7 @@
 
 I am a B.Tech student in Computer Science (2024 to 2028), and I enjoy the part of data work that most people skip: cleaning messy data, questioning it, and only then drawing conclusions from it.
 
-I came to data science through competitive programming. Over 700 problems across Codeforces, CodeChef and LeetCode taught me to break problems down and to care about correctness and efficiency. I now apply the same discipline to datasets, models and dashboards.
+I came to data science through competitive programming. Over 900 problems across Codeforces, CodeChef and LeetCode taught me to break problems down and to care about correctness and efficiency. I now apply the same discipline to datasets, models and dashboards.
 
 I am currently looking for internships in data analytics and data science.
 
