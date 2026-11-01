@@ -30,15 +30,30 @@ I came to data science through competitive programming. Over 900 problems across
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python" alt="Python"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL" alt="MySQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" title="SQLite" alt="SQLite"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" title="Pandas" alt="Pandas"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" title="NumPy" alt="NumPy"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" title="Scikit-learn" alt="Scikit-learn"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="45" height="45" title="SciPy" alt="SciPy"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" title="Matplotlib" alt="Matplotlib"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="45" height="45" title="Seaborn" alt="Seaborn"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="45" height="45" title="Plotly" alt="Plotly"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/96/power-bi-2021.png" width="45" height="45" title="Power BI" alt="Power BI"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="45" height="45" title="Microsoft Excel" alt="Microsoft Excel"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" title="Scikit-learn" alt="Scikit-learn"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" title="TensorFlow" alt="TensorFlow"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="45" height="45" title="Keras" alt="Keras"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" title="PyTorch" alt="PyTorch"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" title="OpenCV" alt="OpenCV"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/spacy/09A3D5" width="45" height="45" title="spaCy" alt="spaCy"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="45" height="45" title="Hugging Face" alt="Hugging Face"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="45" height="45" title="LangChain" alt="LangChain"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45" height="45" title="Streamlit" alt="Streamlit"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" title="FastAPI" alt="FastAPI"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" title="Jupyter Notebook" alt="Jupyter Notebook"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="45" height="45" title="Google Colab" alt="Google Colab"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="45" height="45" title="Kaggle" alt="Kaggle"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45" title="PyCharm" alt="PyCharm"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" title="VS Code" alt="VS Code"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git" alt="Git"/>
 </p>
 
