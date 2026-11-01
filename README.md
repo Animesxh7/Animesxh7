@@ -44,9 +44,7 @@ I am currently looking for internships in data analytics and data science.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git" alt="Git"/>
 </p>
 
-**Currently studying:** Deep Learning, Natural Language Processing and Generative AI.
-
-**Currently studying:** Deep Learning, Natural Language Processing and Generative AI.
+**Currently Exploring:** Deep Learning, Natural Language Processing and Generative AI.
 
 ---
 
