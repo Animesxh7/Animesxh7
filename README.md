@@ -1,70 +1,129 @@
-<h1 align="center">Hi, I'm Animesh Jain 👋</h1>
-<h3 align="center">Aspiring Data Analyst & Data Scientist | CSE @ IIIT Bhagalpur ('28)</h3>
+<h1 align="center">Animesh Jain</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/animesh-jain30/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:2422aj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/YOUR_CF_HANDLE"><img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/YOUR_LC_HANDLE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  Computer Science undergraduate at IIIT Bhagalpur, working toward a career in data analytics and data science.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/animesh-jain30/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:2422aj@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://codeforces.com/profile/YOUR_CF_HANDLE">Codeforces</a>
+  &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/YOUR_LC_HANDLE">LeetCode</a>
 </p>
 
 ---
 
-### 🔭 About Me
-- 🎓 B.Tech CSE student at **IIIT Bhagalpur** (2024–2028)
-- 📊 Focused on **Data Analytics, Data Science & ML**
-- 🧠 Solved **700+ problems** on Codeforces / CodeChef / LeetCode
-- 🚀 Currently building **InsightNexus**, an automated data-to-insights platform
-- 📫 Open to Data Analytics / Data Science internships
+## About
+
+I am a B.Tech student in Computer Science (2024 to 2028), and I enjoy the part of data work that most people skip: cleaning messy data, questioning it, and only then drawing conclusions from it.
+
+I came to data science through competitive programming. Over 700 problems across Codeforces, CodeChef and LeetCode taught me to break problems down and to care about correctness and efficiency. I now apply the same discipline to datasets, models and dashboards.
+
+I am currently looking for internships in data analytics and data science.
 
 ---
 
-### 🛠️ Tech Stack
+## Technical Skills
 
-**Languages & Databases**
+*Hover over a logo to see its name.*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Languages and Databases**
 
-**Data & ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
-**BI, Apps & Tools**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Currently exploring:** Deep Learning · NLP · Generative AI
-
----
-
-### 🚀 Featured Projects
-
-#### 🔹 [InsightNexus](https://github.com/Animesxh7/InsightNexus)
-Automated data analytics platform: upload messy data → quality scoring → cleaning → analysis → dashboard, in minutes instead of days.
-`Python` `FastAPI` `Next.js` `Pandas` `PostgreSQL`
-
-#### 🔹 Project 2: *Coming soon*
-#### 🔹 Project 3: *Coming soon*
-
-More work: [Credit Card Fraud Detection](https://github.com/Animesxh7/Credit-Card-Fraud-Detection) · [Olympics Data Analysis](https://github.com/Animesxh7/Olympics-Data-Analysis) · [Sales Analytics Dashboard](https://github.com/Animesxh7/Sales_Ananlytics_Dashboard)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Animesxh7&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animesxh7&layout=compact&theme=tokyonight&hide_border=true"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python" alt="Python"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL" alt="MySQL"/>
 </p>
+
+**Data Analysis and Machine Learning**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" title="Pandas" alt="Pandas"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" title="NumPy" alt="NumPy"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" title="Scikit-learn" alt="Scikit-learn"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" title="Matplotlib" alt="Matplotlib"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="50" height="50" title="Plotly" alt="Plotly"/>
+</p>
+
+**Business Intelligence and Tools**
+
+<p>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50" height="50" title="Power BI" alt="Power BI"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50" height="50" title="Microsoft Excel" alt="Microsoft Excel"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" height="50" title="Streamlit" alt="Streamlit"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" title="PyCharm" alt="PyCharm"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git" alt="Git"/>
+</p>
+
+**Currently studying:** Deep Learning, Natural Language Processing and Generative AI.
+
+---
+
+## Featured Work
+
+### InsightNexus
+
+An analytics platform that takes raw, untidy data and turns it into something a person can actually read. It handles ingestion, quality checks, cleaning and analysis, and presents the results in a dashboard, so that the work between "I have a file" and "I understand my data" takes minutes rather than days.
+
+**Stack:** Python, FastAPI, Pandas, PostgreSQL, Next.js
+**Repository:** [InsightNexus](https://github.com/Animesxh7/InsightNexus)
+
+<details>
+<summary><b>More projects</b></summary>
+
+<br>
+
+| Project | What it does |
+| --- | --- |
+| [Credit Card Fraud Detection](https://github.com/Animesxh7/Credit-Card-Fraud-Detection) | Classification on a highly imbalanced dataset, with a focus on recall rather than raw accuracy. |
+| [Olympics Data Analysis](https://github.com/Animesxh7/Olympics-Data-Analysis) | Exploratory analysis of historical Olympic data: medals, countries, athletes and trends over time. |
+| [Sales Analytics Dashboard](https://github.com/Animesxh7/Sales_Ananlytics_Dashboard) | A sales dashboard built to surface revenue patterns and performance at a glance. |
+| [SMS Spam Detector](https://github.com/Animesxh7/SMS_Spam_Detector) | A text classifier that separates spam from legitimate messages. |
+| [Car Price Predictor](https://github.com/Animesxh7/Car-Price-Predictor) and [Laptop Price Predictor](https://github.com/Animesxh7/Laptop-Price-Predictor) | Regression models for estimating prices from product features. |
+
+</details>
+
+<details>
+<summary><b>In progress</b></summary>
+
+<br>
+
+Two further projects are being built and will be added here once they are ready to be shown properly. I would rather publish fewer things that are finished than many that are not.
+
+</details>
+
+---
+
+## Competitive Programming
+
+<details>
+<summary><b>Profiles and approach</b></summary>
+
+<br>
+
+- **Codeforces:** Pupil
+- **Problems solved:** 700+ across Codeforces, CodeChef and LeetCode
+- **Solutions repository:** [Data-Structures-Algorithms](https://github.com/Animesxh7/Data-Structures-Algorithms)
+
+I treat contests as practice in thinking under constraints: read carefully, find the simplest correct idea, then optimise only if it is needed.
+
+</details>
+
+---
+
+## How I Work
+
+- I look at the data before I touch a model.
+- I prefer a simple model that I can explain over a complex one that I cannot.
+- I document what I build, including what did not work.
+
+---
+
+## Get in Touch
+
+If you are working on something in data analytics or machine learning, or hiring for an internship, I would be glad to hear from you.
+
+[LinkedIn](https://www.linkedin.com/in/animesh-jain30/) · [2422aj@gmail.com](mailto:2422aj@gmail.com)
